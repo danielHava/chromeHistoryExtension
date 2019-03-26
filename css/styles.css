@@ -1,0 +1,34 @@
+html {
+  height: auto;
+  width: auto;
+}
+
+body {
+  height: auto;
+  width: 450px;
+  background-color: #FFF;
+}
+
+.ex-button{
+  min-width: 100px;
+}
+
+.table{
+ font-size: 0.9rem;
+ max-width: 450px;
+}
+
+.table .date-cell{
+  width: 22%;
+}
+
+.table .url-cell{
+  word-break: break-all;
+  word-wrap: break-word;
+}
+
+.btn-round{
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+}

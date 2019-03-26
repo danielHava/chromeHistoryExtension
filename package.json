@@ -1,0 +1,14 @@
+{
+  "name": "history-chrome-extension",
+  "version": "1.0.0",
+  "description": "An extension for Chrome that holds the history since it has been activated.",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Hava",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
