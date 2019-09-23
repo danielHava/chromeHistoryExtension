@@ -9,4 +9,4 @@ A Chrome extension for filtering the activity feed on github.com dashboard.
 
 ## LICENSE
 
-MIT
+ISC
