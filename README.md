@@ -1,6 +1,6 @@
 # Chrome History Extension
 
-A Chrome extension for capturing the navigation history and disply it. 
+A Chrome extension for capturing the navigation history and display it. 
 
 
 ### Install
