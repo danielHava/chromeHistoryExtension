@@ -1,6 +1,6 @@
 # Chrome History Extension
 
-A Chrome extension for filtering the activity feed on github.com dashboard. 
+A Chrome extension for capturing the navigation history and disply it. 
 
 
 ### Install
